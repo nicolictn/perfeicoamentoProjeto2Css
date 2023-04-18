@@ -1,0 +1,46 @@
+body {
+	background-color: #C6D691;
+	background-image: url('img/fundo.png');
+	background-attachment: fixed;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: black;
+}
+
+h2 {
+	color: #444B2B;
+}
+
+#capa {
+	padding: 40px;	
+}
+
+.img-campanha {
+	border: 16px solid #ffffff;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
+#menu {
+		background: #c5c5b2;
+		padding: 18px;
+	}
+
+a {
+	color: #1e3c72;
+	padding: 12px;
+	margin: 20px 0px;
+	text-decoration: none;
+}
+
+.molde {
+	background: #c9d6a4;
+	padding: 25px 30px;
+	margin: 50px 216px;
+
+}
+
